@@ -6,5 +6,5 @@
 
 ---
 
-![](/assets/Violin 2.jpg)
+![小提琴](/assets/Violin 2.jpg)
 
